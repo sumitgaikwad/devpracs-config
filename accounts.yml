@@ -1,0 +1,15 @@
+tags:
+  - name: AccountController
+
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to DevBank accounts related local APIs "
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@devbank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
