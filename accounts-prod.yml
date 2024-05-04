@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related jay APIs "
+  message: "Welcome to EazyBank accounts related jyoti APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     #email: "aishwarya@devbank.com"
