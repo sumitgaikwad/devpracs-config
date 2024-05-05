@@ -6,7 +6,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to DevBank accounts related local APIs "
+  message: "Welcome to DevBank accounts related docker APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@devbank.com"
